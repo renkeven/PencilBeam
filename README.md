@@ -10,3 +10,4 @@ Halo mass - Luminosity relation (log Mass vs Absolute magnitude)
 ----
 
 Just run the test_stack.py
+Outputs for test_stack placed in output_test folder
