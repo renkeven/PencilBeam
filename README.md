@@ -1,6 +1,6 @@
 # PencilBeam
 
-Suitable for high-z (z>3), as long as you can approximate pencilbeam as a cuboid. Minor modifications required for lower-z.
+Suitable for high-z (z>3), as long as you can approximate pencilbeam as a parallelepiped. Minor modifications required for lower-z.
 
 ## Requirements
 
